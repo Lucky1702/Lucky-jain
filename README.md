@@ -1,5 +1,5 @@
 # String
-# Name = Amrendra Singh Parihar
-# Enroll No. = 0820CS191008
+# Name = Lucky jain
+# Enroll No. = 0820CS191030
 # year = 2nd 
 # Branch= CSE
